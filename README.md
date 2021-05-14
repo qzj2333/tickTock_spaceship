@@ -3,7 +3,7 @@ Author: Nicole Wang
 
 ## Before run the program
 Some constrains are able to change in this program:
-* **frameHeight & frameWidth**: length and width for the game 
+* **frameHeight & frameWidth**: length and width for the game frame
 * **prob**: percentage of obstacles on one row  
       range: [0, 1]  
       larger value leads to more obstacles and therefore more difficult game level
