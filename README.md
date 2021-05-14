@@ -12,7 +12,7 @@ Some constrains are able to change in this program:
 
 ## How to run the program
 Go to the directory that contains the file spaceship.py  
-run the file in terminal: *python spaceship*
+run the file in terminal: *python spaceship.py*
 
 ## Reference
 https://docs.python.org/3/howto/curses.html  
