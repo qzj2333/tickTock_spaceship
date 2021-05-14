@@ -1,4 +1,4 @@
-#Initial Interview question for Tick Tock  
+# Initial Interview question for Tick Tock  
 Author: Nicole Wang
 
 ## Before run the program
