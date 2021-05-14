@@ -1,7 +1,7 @@
-Initial Interview question for Tick Tock  
+#Initial Interview question for Tick Tock  
 Author: Nicole Wang
 
-# Before run the program
+## Before run the program
 Some constrains are able to change in this program:
 * **frameHeight & frameWidth**: length and width for the game 
 * **prob**: percentage of obstacles on one row  
@@ -10,10 +10,10 @@ Some constrains are able to change in this program:
 * **speed**: the falling speed of obstacles, unit in milliseconds  
        larger value leads to slower falling/moving obstacles and therefore easier game level
 
-# How to run the pogram
+## How to run the program
 Go to the directory that contains the file spaceship.py
 run the file in terminal: *python spaceship*
 
-# Reference
+## Reference
 https://docs.python.org/3/howto/curses.html  
 https://www.youtube.com/watch?v=BvbqI6eDh0c&ab_channel=IndianPythonista
