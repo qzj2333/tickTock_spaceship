@@ -1,8 +1,3 @@
-'''
-reference:
-https://docs.python.org/3/howto/curses.html
-https://www.youtube.com/watch?v=BvbqI6eDh0c&ab_channel=IndianPythonista
-'''
 import curses
 import random
 import time
