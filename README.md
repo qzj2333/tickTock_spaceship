@@ -11,7 +11,7 @@ Some constrains are able to change in this program:
        larger value leads to slower falling/moving obstacles and therefore easier game level
 
 ## How to run the program
-Go to the directory that contains the file spaceship.py
+Go to the directory that contains the file spaceship.py  
 run the file in terminal: *python spaceship*
 
 ## Reference
