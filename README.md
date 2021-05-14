@@ -1,13 +1,16 @@
-#Initial Interview question for Tick Tock
-#Author: Nicole Wang
+Initial Interview question for Tick Tock
+Author: Nicole Wang
 
 # Before run the program
 Some constrains are able to change in this program:
-frameHeight & frameWidth: length and width for the game 
-prob: percentage of obstacles on one row
+* frameHeight & frameWidth: length and width for the game 
+* prob: percentage of obstacles on one row
+
       range: [0, 1]
+      
       larger value leads to more obstacles and therefore more difficult game level
-speed: unit in milliseconds, represents the falling speed of obstacles
+* speed: the falling speed of obstacles, unit in milliseconds
+
        larger value leads to slower falling/moving obstacles and therefore easier game level
        
 
